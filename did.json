@@ -3,12 +3,12 @@
       "https://www.w3.org/ns/did/v1",
       "https://w3id.org/security/suites/jws-2020/v1"
     ],
-    "id": "bellieetda.github.io",
+    "id": "did:web:bellieetda.github.io",
     "verificationMethod": [
       {
-        "id": "bellieetda.github.io#owner",
+        "id": "did:web:bellieetda.github.io#owner",
         "type": "JsonWebKey2020",
-        "controller": "bellieetda.github.io",
+        "controller": "did:web:bellieetda.github.io",
         "publicKeyJwk": {
             "kty":"EC",
             "crv":"secp256k1",
@@ -18,9 +18,9 @@
       }
     ],
     "authentication": [
-      "bellieetda.github.io#owner"
+      "did:web:bellieetda.github.io#owner"
     ],
     "assertionMethod": [
-      "bellieetda.github.io#owner"
+      "did:web:bellieetda.github.io#owner"
     ]
   }
