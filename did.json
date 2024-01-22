@@ -3,12 +3,12 @@
       "https://www.w3.org/ns/did/v1",
       "https://w3id.org/security/suites/jws-2020/v1"
     ],
-    "id": "belletda-ui.github.io",
+    "id": "bellieetda.github.io",
     "verificationMethod": [
       {
-        "id": "belletda-ui.github.io#owner",
+        "id": "bellieetda.github.io#owner",
         "type": "JsonWebKey2020",
-        "controller": "belletda-ui.github.io",
+        "controller": "bellieetda.github.io",
         "publicKeyJwk": {
             "kty":"EC",
             "crv":"secp256k1",
